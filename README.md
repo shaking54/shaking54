@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 Hi there, I'm currently looking for a Data Engineer role. I prepare to work as fresher level. Anyway, I am looking for an opportunity rather than a career to make money.
+- 🌱 I’m currently learning Data Engineer
+- 💬 Ask me about: anything you want. In case you see my git 
+- 📫 How to reach me: trantrungnguyen154@gmail.com
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I'm a white flag. /ff
+
 <!--
 **shaking54/shaking54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
