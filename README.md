@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Hi there, I'm currently looking for a Data Engineer role. I prepare to work as fresher level. Anyway, I am looking for an opportunity rather than a career to make money.
-- 🌱 I’m currently learning Data Engineer
+- 🔭 Hi there, I'm currently an AI Engineer. I am ready for learn new stuff like Data Engineer/ MLOps for release a flawless product.
+- 🌱 I’m currently learning Data Engineer / AI Agent System. 
 - 💬 Ask me about: anything you want. In case you see my git 
 - 📫 How to reach me: trantrungnguyen154@gmail.com
 - 😄 Pronouns: he/his/him
